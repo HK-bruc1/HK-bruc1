@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **HK-bruc1/HK-bruc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71205&center=true&width=435&lines=%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%EF%BC%8C%E7%83%AD%E7%88%B1%E4%BB%A3%E7%A0%81)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71205&center=true&lines=%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%EF%BC%8C%E7%83%AD%E7%88%B1%E4%BB%A3%E7%A0%81" alt="Typing SVG" /></a>
