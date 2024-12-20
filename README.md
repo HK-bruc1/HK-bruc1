@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHK-bruc1=anuraghazra)
+[![HK-bruc1's GitHub stats](https://github-immortality.vercel.app/api?username=HK-bruc1)](https://github.com/HK-bruc1)
 
 <!--
 **HK-bruc1/HK-bruc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
