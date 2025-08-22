@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 👨‍💻 HK-bruc1
 
 ### Software Developer | Open Source Enthusiast
@@ -11,24 +11,41 @@
 
 ## 📊 GitHub Statistics
 
+<!-- Dark Theme -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats-1-pied.vercel.app/api?username=HK-bruc1&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true&custom_title=HK-bruc1's%20GitHub%20Analytics" />
+  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api?username=HK-bruc1&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&custom_title=HK-bruc1's%20GitHub%20Analytics#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats-1-pied.vercel.app/api/top-langs/?username=HK-bruc1&layout=pie&theme=github_dark&langs_count=8&card_width=320&hide_border=true&custom_title=Technology%20Stack" />
+  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api/top-langs/?username=HK-bruc1&layout=pie&theme=tokyonight&langs_count=8&card_width=350&hide_border=true&custom_title=Technology%20Stack#gh-dark-mode-only" />
+</a>
+
+<!-- Light Theme -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api?username=HK-bruc1&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default&hide_border=true&custom_title=HK-bruc1's%20GitHub%20Analytics#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api/top-langs/?username=HK-bruc1&layout=pie&theme=default&langs_count=8&card_width=350&hide_border=true&custom_title=Technology%20Stack#gh-light-mode-only" />
 </a>
 
 ---
 
 ## 🏆 Achievement Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=HK-bruc1&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<!-- Dark Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=HK-bruc1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4#gh-dark-mode-only" />
+
+<!-- Light Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=HK-bruc1&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4#gh-light-mode-only" />
 
 ---
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HK-bruc1&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<!-- Dark Theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HK-bruc1&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+
+<!-- Light Theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HK-bruc1&theme=default&hide_border=true#gh-light-mode-only" />
 
 ---
 
@@ -87,32 +104,13 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="left">
-
-### 🚀 [Project Name 1](https://github.com/HK-bruc1/project1)
-**Tech Stack:** React, Node.js, MongoDB  
-**Description:** A brief description of what this project does and its key features.  
-**Status:** ✅ Completed | 🌟 Featured
-
-### 🛠️ [Project Name 2](https://github.com/HK-bruc1/project2)  
-**Tech Stack:** Python, Django, PostgreSQL  
-**Description:** Another project showcase with its main functionality and impact.  
-**Status:** 🔄 In Progress | 🔥 Popular
-
-### 💡 [Project Name 3](https://github.com/HK-bruc1/project3)
-**Tech Stack:** Vue.js, Express.js, MySQL  
-**Description:** Third project highlighting different technology stack usage.  
-**Status:** 🚀 Production | ⭐ Open Source
-
-</div>
-
----
-
 ## 📈 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-bruc1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+<!-- Dark Theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-bruc1&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7&area=true&hide_border=true#gh-dark-mode-only" />
+
+<!-- Light Theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-bruc1&theme=minimal&bg_color=ffffff&color=333333&line=0969da&point=0969da&area=true&hide_border=true#gh-light-mode-only" />
 
 ---
 
@@ -134,19 +132,6 @@
 - [Best Practices for React Development](link-to-blog-post)
 - [Understanding Docker and Kubernetes](link-to-blog-post)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
 
 ---
 
