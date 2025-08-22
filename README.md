@@ -67,13 +67,6 @@
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 📈 GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-bruc1&theme=minimal&bg_color=ffffff&color=333333&line=0969da&point=0969da&area=true&hide_border=true" />
