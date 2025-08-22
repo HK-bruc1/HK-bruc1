@@ -11,41 +11,24 @@
 
 ## 📊 GitHub Statistics
 
-<!-- Dark Theme -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api?username=HK-bruc1&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&custom_title=HK-bruc1's%20GitHub%20Analytics#gh-dark-mode-only" />
+  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api?username=HK-bruc1&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default&hide_border=true&custom_title=HK-bruc1's%20GitHub%20Analytics" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api/top-langs/?username=HK-bruc1&layout=pie&theme=tokyonight&langs_count=8&card_width=350&hide_border=true&custom_title=Technology%20Stack#gh-dark-mode-only" />
-</a>
-
-<!-- Light Theme -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api?username=HK-bruc1&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default&hide_border=true&custom_title=HK-bruc1's%20GitHub%20Analytics#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api/top-langs/?username=HK-bruc1&layout=pie&theme=default&langs_count=8&card_width=350&hide_border=true&custom_title=Technology%20Stack#gh-light-mode-only" />
+  <img height=220 src="https://github-readme-stats-1-pied.vercel.app/api/top-langs/?username=HK-bruc1&layout=pie&theme=default&langs_count=8&card_width=350&hide_border=true&custom_title=Technology%20Stack" />
 </a>
 
 ---
 
 ## 🏆 Achievement Showcase
 
-<!-- Dark Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=HK-bruc1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4#gh-dark-mode-only" />
-
-<!-- Light Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=HK-bruc1&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4#gh-light-mode-only" />
+<img src="https://github-profile-trophy.vercel.app/?username=HK-bruc1&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
 ---
 
 ## 📈 Contribution Activity
 
-<!-- Dark Theme -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HK-bruc1&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-
-<!-- Light Theme -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HK-bruc1&theme=default&hide_border=true#gh-light-mode-only" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HK-bruc1&theme=default&hide_border=true" />
 
 ---
 
@@ -84,19 +67,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-```
-🔭 Currently working on:     Full-Stack Development Projects
-🌱 Learning:                 Cloud Architecture & DevOps
-👯 Open to collaborate on:   Open Source Projects
-💬 Ask me about:             Web Development, Python, JavaScript
-📫 Reach me at:              [your-email@example.com]
-⚡ Fun fact:                 Code is poetry in motion!
-```
-
----
-
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
@@ -106,11 +76,7 @@
 
 ## 📈 GitHub Activity Graph
 
-<!-- Dark Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-bruc1&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7&area=true&hide_border=true#gh-dark-mode-only" />
-
-<!-- Light Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-bruc1&theme=minimal&bg_color=ffffff&color=333333&line=0969da&point=0969da&area=true&hide_border=true#gh-light-mode-only" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-bruc1&theme=minimal&bg_color=ffffff&color=333333&line=0969da&point=0969da&area=true&hide_border=true" />
 
 ---
 
